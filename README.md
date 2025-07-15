@@ -4,3 +4,5 @@
 👨‍💻 I mostly write workflows to streamline data handling, automate analyses, programme liquid handling and interact with lab notebooks.
 
 🚀 Looking to expand on this experience.
+
+💾 Currently updating this repo with a few code examples.
